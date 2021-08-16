@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+    background-image: url('https://vivareceita-cdn.s3.amazonaws.com/uploads/2021/04/Passo-a-passo-delicioso-de-como-fazer-massa-de-coxinha.-Fonte-Pixabay-500x500.jpg') ;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-attachment: fixed;
+}
+
+h1{
+    background-color: green;
+    color: white;
+}
